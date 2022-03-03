@@ -52,8 +52,8 @@
 
 <div>
   <a href="https://github.com/jmlinger">
-  <img align="center" width="325px" src="https://github-readme-stats.vercel.app/api?username=jmlinger&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="jmlinger"/>
-  <img align="center" width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlinger&layout=compact&theme=graywhite&title_color=268bd2" alt="jmlinger" />
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=jmlinger&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="jmlinger"/>
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlinger&layout=compact&theme=graywhite&title_color=268bd2" alt="jmlinger" />
 </div>
 
 <br/>

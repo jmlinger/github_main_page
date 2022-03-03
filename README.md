@@ -58,8 +58,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <h3> Onde me encontrar 👇🏾: </h3> 
 

@@ -1,5 +1,3 @@
-<h3> Sobre mim </h3>
-
 - :recycle: &nbsp; Explorar, implementar e refatorar.
 - 🎓 &nbsp; Estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.
 - :thinking: &nbsp; Aprendendo mais sobre Mocha, Chai, Sinon e Socket.io.

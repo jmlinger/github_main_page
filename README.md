@@ -1,10 +1,12 @@
+<h2> Sobre Mim </h2>
+
 - :recycle: &nbsp; Explorar, implementar e refatorar.
 - 🎓 &nbsp; Estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.
-- :thinking: &nbsp; Aprendendo mais sobre Mocha, Chai, Sinon e Socket.io.
+- :thinking: &nbsp; Aprendendo mais sobre Python.
 
 <br/>
 
-<h3> Minhas Skills </h3>
+<h2> Minhas Skills </h2>
 
 **Stacks de Desenvolvimento**
 
@@ -18,6 +20,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
   
 **Testes**
 

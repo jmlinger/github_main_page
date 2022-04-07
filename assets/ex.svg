@@ -2,11 +2,21 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            div {
-                background-image: url('./coding_changed');
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
             }
             </style>
-            <div align="center" width="400" height="400"></div>
+            <h1>HELLO WORLD!</h1>
         </div>
     </foreignObject>
 </svg>

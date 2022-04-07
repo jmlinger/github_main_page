@@ -1,9 +1,9 @@
-<div style='text-align:center, background-image:url(../assets/coding_changed.gif)'>
-  <img src='./assets/ex.svg' alt='' width="400" height="400" alt="css-in-readme">
+<div align='center'>
+  <img src='./assets/ex.svg' width="400" height="400" alt="css-in-readme">
 </div>
 
 
-<div style='text-align:center'>
+<div align='center'>
   <p>shinzou wo sasageyo</p>
   <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='50px' height='60px'>
 </div>

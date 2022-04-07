@@ -1,11 +1,11 @@
 <div style='text-align:center, background-image:url(../assets/coding_changed.gif)'>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=30&color=1A691A&center=true&vCenter=true&width=700&height=100&lines=Ol%C3%A1%2C+seja+bem+vindo(a)+ao+meu+perfil!;Me+chamo+Johann+Munzlinger.;Sou+Desenvolvedor+Web+Full+Stack.)](https://git.io/typing-svg)
+  <img src='./assets/ex.svg' alt='' width="400" height="400" alt="css-in-readme">
 </div>
 
 
 <div style='text-align:center'>
   <p>shinzou wo sasageyo</p>
-  <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' style='width:50px;height:60px'>
+  <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='50px' height='60px'>
 </div>
 
 <h2> Sobre Mim </h2>

@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='./assets/ex.svg' width="400" height="400" alt="css-in-readme">
+  <img src='./assets/welcome.gif' width="600px" height="100px" alt="css-in-readme">
 </div>
 
 

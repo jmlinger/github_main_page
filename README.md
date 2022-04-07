@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=1A691A&center=true&vCenter=true&width=700&height=100&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!;Me+chamo+Johann+Munzlinger.;Sou+Desenvolvedor+Web+Full+Stack.)](https://git.io/typing-svg)
+
 <h2> Sobre Mim </h2>
 
 - :recycle: &nbsp; Explorar, implementar e refatorar.

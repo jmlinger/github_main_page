@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=35&color=1A691A&center=true&vCenter=true&width=700&height=100&lines=Ol%C3%A1%2C+seja+bem+vindo(a)+ao+meu+perfil!;Me+chamo+Johann+Munzlinger.;Sou+Desenvolvedor+Web+Full+Stack.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=30&color=1A691A&center=true&vCenter=true&width=700&height=100&lines=Ol%C3%A1%2C+seja+bem+vindo(a)+ao+meu+perfil!;Me+chamo+Johann+Munzlinger.;Sou+Desenvolvedor+Web+Full+Stack.)](https://git.io/typing-svg)
 
 <h2> Sobre Mim </h2>
 
@@ -13,6 +13,7 @@
 **Stacks de Desenvolvimento**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -33,7 +34,7 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Amazon Web Services](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+  ![Amazon Web Services](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
   <!-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) -->
 
 **Ferramentas de Desenvolvimento**
@@ -45,7 +46,7 @@
 **Utilitários**
 
  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
- ![MySQL WorkBench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql-workbench)
+ ![MySQL WorkBench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
  ![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=zoom)
  ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)

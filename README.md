@@ -22,6 +22,8 @@
   </ul>
 </div>
 
+<br/>
+
 ## Minhas Skills
 
 **Stacks de Desenvolvimento**

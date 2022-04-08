@@ -14,7 +14,7 @@
 ## Sobre Mim
 
 <div>
-  <img align="right" alt="GIF" src="./assets/code_world.gif" width="150px" height="150px" />
+  <img align="right" alt="GIF" src="./assets/code_world_github_colour.gif" width="150px" height="150px" />
   <ul align="left">
     <li>:recycle: &nbsp; Explorar, implementar e refatorar.</li>
     <li>🎓 &nbsp; Estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.</li>

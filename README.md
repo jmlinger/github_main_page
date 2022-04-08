@@ -1,27 +1,21 @@
 <div align='center'>
-  <img src='./assets/welcome.gif' width="700px" height="100px" alt="css-in-readme">
+  <img src='./assets/welcome.gif' width="700px" height="110px" alt="css-in-readme">
+  <p>:recycle:&nbsp;Explorar, implementar e refatorar.</p>
 </div>
 
 <br/>
-
-<div align='center'>
-    <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='50px' height='60px'>
-  <p>
-    Shinzou wo sasageyo!
-  </p>
-</div>
 
 ## Sobre Mim
 
 <div>
   <img align="right" alt="GIF" src="./assets/code_world_github_colour.gif" width="150px" height="150px" />
   <ul align="left">
-    <li>:recycle: &nbsp; Explorar, implementar e refatorar.</li>
     <li>🎓 &nbsp; Estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.</li>
     <li>:thinking: &nbsp; Aprendendo mais sobre Python.</li>
   </ul>
 </div>
 
+<br/>
 <br/>
 
 ## Minhas Skills
@@ -80,7 +74,21 @@
 <br/>
 <br/>
 
-<h3> Onde me encontrar 👇🏾: </h3> 
+<div>
+  <h3> Onde me encontrar 👇🏾: </h3>
+  <a href="https://www.linkedin.com/in/johann-munzlinger/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/" width="100px" height="30px"/>
+  </a>
+  <a href="mailto:jmlinger10@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com)" width="100px" height="30px" />
+  </a>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/)](https://www.linkedin.com/in/johann-munzlinger/)
-[![Gmail](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com)](mailto:jmlinger10@gmail.com)
+<br/>  
+  
+<div align='center'>
+    <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='50px' height='60px'>
+  <p>
+    Shinzou wo sasageyo!
+  </p>
+</div>

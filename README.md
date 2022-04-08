@@ -77,10 +77,10 @@
 <div>
   <h3> Onde me encontrar 👇🏾: </h3>
   <a href="https://www.linkedin.com/in/johann-munzlinger/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/" width="100px" height="30px"/>
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/" width="100px" height="25px"/>
   </a>
   <a href="mailto:jmlinger10@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com)" width="100px" height="30px" />
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com)" width="100px" height="25px" />
   </a>
 </div>
 

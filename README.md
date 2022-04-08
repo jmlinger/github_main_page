@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='./assets/welcome.gif' width="600px" height="100px" alt="css-in-readme">
+  <img src='./assets/welcome.gif' width="800px" height="120px" alt="css-in-readme">
 </div>
 
 
@@ -8,7 +8,7 @@
   <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='50px' height='60px'>
 </div>
 
-<h2> Sobre Mim </h2>
+## Sobre Mim
 
 - :recycle: &nbsp; Explorar, implementar e refatorar.
 - 🎓 &nbsp; Estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.
@@ -16,7 +16,7 @@
 
 <br/>
 
-<h2> Minhas Skills </h2>
+## Minhas Skills
 
 **Stacks de Desenvolvimento**
 
@@ -60,9 +60,10 @@
  ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
 
 <br/>
-<br/>
 
-<div>
+## GitHub Stats
+
+<div align="center">
   <a href="https://github.com/jmlinger">
   <img align="center" width="380px" height="150px" src="https://github-readme-stats.vercel.app/api?username=jmlinger&count_private=true&show_icons=true&theme=highcontrast&icon_color=268bd2&title_color=268bd2" alt="jmlinger"/>
   <img align="center" width="380px" height="150px" coral src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlinger&layout=compact&theme=highcontrast&title_color=268bd2" alt="jmlinger" />

@@ -2,17 +2,25 @@
   <img src='./assets/welcome.gif' width="800px" height="120px" alt="css-in-readme">
 </div>
 
+<br/>
 
 <div align='center'>
-  <p>shinzou wo sasageyo</p>
-  <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='50px' height='60px'>
+    <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='50px' height='60px'>
+  <p>
+    Shinzou wo sasageyo!
+  </p>
 </div>
 
 ## Sobre Mim
 
-- :recycle: &nbsp; Explorar, implementar e refatorar.
-- 🎓 &nbsp; Estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.
-- :thinking: &nbsp; Aprendendo mais sobre Python.
+<div>
+  <img align="right" alt="GIF" src="./assets/code_world.gif" width="150px" height="150px" />
+  <ul align="left">
+    <li>:recycle: &nbsp; Explorar, implementar e refatorar.</li>
+    <li>🎓 &nbsp; Estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.</li>
+    <li>:thinking: &nbsp; Aprendendo mais sobre Python.</li>
+  </ul>
+</div>
 
 <br/>
 

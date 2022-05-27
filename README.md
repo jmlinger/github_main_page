@@ -7,7 +7,7 @@
 
 ## Sobre Mim
 
-<div>
+<div align="right">
   <img align="right" alt="GIF" src="./assets/code_world_github_colour.gif" width="150px" height="150px" />
   <ul align="left">
     <li>🎓 &nbsp; Estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.</li>

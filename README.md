@@ -1,3 +1,13 @@
+<div align='right'>
+ <a href="https://www.linkedin.com/in/johann-munzlinger/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/" width="100px" height="30px"/>
+  </a>
+  <a href="mailto:jmlinger10@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com)" width="100px" height="30px" />
+  </a>
+</div>
+
+##
 <div align='center'>
   <img src='./assets/welcome.gif' width="700px" height="110px" alt="css-in-readme">
   <p>:recycle:&nbsp;Explorar, implementar e refatorar.</p>
@@ -72,19 +82,7 @@
 </div>
 
 <br/>
-<br/>
-
-<div>
-  <h3> Onde me encontrar 👇🏾: </h3>
-  <a href="https://www.linkedin.com/in/johann-munzlinger/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/" width="100px" height="25px"/>
-  </a>
-  <a href="mailto:jmlinger10@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com)" width="100px" height="25px" />
-  </a>
-</div>
-
-<br/>  
+<br/> 
   
 <div align='center'>
     <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='50px' height='60px'>

@@ -1,15 +1,15 @@
 <div align='right'>
  <a href="https://www.linkedin.com/in/johann-munzlinger/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/" width="100px" height="30px"/>
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/" width="80px" height="20px"/>
   </a>
   <a href="mailto:jmlinger10@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com)" width="100px" height="30px" />
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com" width="80px" height="20px" />
   </a>
 </div>
 
 ##
 <div align='center'>
-  <img src='./assets/welcome.gif' width="700px" height="110px" alt="css-in-readme">
+  <img src='./assets/welcome.gif' width="400px" height="75px" alt="css-in-readme">
   <p>:recycle:&nbsp;Explorar, implementar e refatorar.</p>
 </div>
 

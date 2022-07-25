@@ -3,7 +3,7 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/" width="70px" height="20px"/>
   </a>
   <a href="mailto:jmlinger10@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com" width="70px" height="20px" />
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com)" width="70px" height="20px" />
   </a>
 </div>
 

@@ -3,13 +3,13 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-munzlinger/" width="70px" height="20px"/>
   </a>
   <a href="mailto:jmlinger10@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com)" width="70px" height="20px" />
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmlinger10@gmail.com" width="70px" height="20px" />
   </a>
 </div>
 
 ##
 <div align='center'>
-  <img src='./assets/welcome.gif' width="600px" height="100px" alt="css-in-readme">
+  <img src='./assets/welcome.gif' width="550px" height="85px" alt="css-in-readme">
   <p>:recycle:&nbsp;Explorar, implementar e refatorar.</p>
 </div>
 
@@ -18,7 +18,7 @@
 ## Sobre Mim
 
 <div align="right">
-  <img align="right" alt="GIF" src="./assets/code_world_github_colour.gif" width="150px" height="150px" />
+  <img align="right" alt="GIF" src="./assets/code_world_github_colour.gif" width="120px" height="120px" />
   <ul align="left">
     <li>🎓 &nbsp; Desenvolvedor Web Full Stack pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.</li>
     <li>:thinking: &nbsp; Aprendendo mais sobre NestJS, Typescript e Docker.</li>
@@ -85,7 +85,7 @@
 <br/> 
   
 <div align='center'>
-    <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='50px' height='60px'>
+    <img src='./assets/scouting_legion_emblem-removebg.png' alt='Emblema da tropa de exploração' width='40px' height='50px'>
   <p>
     Shinzou wo sasageyo!
   </p>

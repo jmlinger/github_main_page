@@ -21,7 +21,7 @@
   <img align="right" alt="GIF" src="./assets/code_world_github_colour.gif" width="120px" height="120px" />
   <ul align="left">
     <li>🎓 &nbsp; Desenvolvedor Web Full Stack pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.</li>
-    <li>:thinking: &nbsp; Aprendendo mais sobre NestJS, Typescript e Docker.</li>
+    <li>:thinking: &nbsp; Aprendendo mais sobre Typescript, React Native e Tailwind.</li>
   </ul>
 </div>
 
@@ -36,6 +36,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)

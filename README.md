@@ -21,7 +21,7 @@
   <img align="right" alt="GIF" src="./assets/code_world_github_colour.gif" width="120px" height="120px" />
   <ul align="left">
     <li>🎓 &nbsp; Desenvolvedor Web Full Stack pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>.</li>
-    <li>:thinking: &nbsp; Aprendendo mais sobre Typescript, React Native e Tailwind.</li>
+    <li>:thinking: &nbsp; Aprendendo mais sobre Typescript, Next.js e Tailwind CSS.</li>
   </ul>
 </div>
 

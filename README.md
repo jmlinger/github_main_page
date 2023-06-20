@@ -30,49 +30,98 @@
 
 ## Minhas Skills
 
-**Stacks de Desenvolvimento**
+**Desktop**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
-  ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
-  
+<div>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/html5-339933?style=for-the-badge&logo=html5&color=black" />
+  </a>
+  <a href="https://www.w3schools.com/cssref/">
+    <img src="https://img.shields.io/badge/css-339933?style=for-the-badge&logo=css3&color=black" />
+  </a>
+  <a href="https://javascript.info/">
+    <img src="https://img.shields.io/badge/javascript-339933?style=for-the-badge&logo=javascript&color=black" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-339933?style=for-the-badge&logo=typescript&color=black" />
+  </a>
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html">
+    <img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=react&color=black" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/next.js-339933?style=for-the-badge&logo=next.js&color=black" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/tailwindcss-339933?style=for-the-badge&logo=tailwindcss&color=black" />
+  </a>
+  <a href="https://styled-components.com/docs">
+    <img src="https://img.shields.io/badge/Styled--Components-339933?style=for-the-badge&logo=styledcomponents&color=black" />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/sass-339933?style=for-the-badge&logo=sass&color=black" />
+  </a>
+</div>
+<br>
+ 
+**Mobile**
+
+<div>
+  <a href="https://reactnative.dev/">
+     <img src="https://img.shields.io/badge/react native-339933?style=for-the-badge&logo=react&color=black" />
+  </a>
+</div>
+<br>
+
+**Server**
+
+ <div>
+  <a href="https://docs.npmjs.com/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=black" />
+  </a>
+  <a href="https://expressjs.com/pt-br/">
+    <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&color=black" /> 
+  </a>
+  <a href="https://www.fastify.io/">
+    <img src="https://img.shields.io/badge/fastify-339933?style=for-the-badge&logo=fastify&color=black" /> 
+  </a>
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/nestjs-339933?style=for-the-badge&logo=nestjs&color=black" /> 
+  </a>
+  <a href="https://mongoosejs.com/">
+    <img src="https://img.shields.io/badge/mongoose-339933?style=for-the-badge&logo=mongoose&color=black" /> 
+  </a>
+  <a href="https://sequelize.org/">
+    <img src="https://img.shields.io/badge/Sequelize-339933?style=for-the-badge&logo=sequelize&color=black" />
+  </a>
+  <a href="https://www.prisma.io/">
+    <img src="https://img.shields.io/badge/prisma-339933?style=for-the-badge&logo=prisma&color=black" /> 
+  </a>
+  </a>
+    <a href="https://graphql.org/">
+    <img src="https://img.shields.io/badge/graphql-339933?style=for-the-badge&logo=graphql&color=black"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&color=black" /> 
+  </a>
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&color=black" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/postgresql-339933?style=for-the-badge&logo=postgresql&color=black" />
+  </a>
+</div>
+<br>
+
 **Testes**
-
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=rtl)
-  
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Amazon Web Services](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-  <!-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) -->
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  
-**Utilitários**
-
- ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
- ![MySQL WorkBench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
- ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
- ![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=zoom)
- ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
-
-<br/>
+<div>
+  <a href="https://jestjs.io/">
+    <img src="https://img.shields.io/badge/-Jest-339933?style=for-the-badge&logo=jest&color=black" />
+  </a>
+  <a href="https://testing-library.com/">
+    <img src="https://img.shields.io/badge/-React Testing Library-339933?style=for-the-badge&logo=rtl&color=black" />
+  </a>
+</div>
+<br>
 
 ## GitHub Stats
 
